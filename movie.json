@@ -1,0 +1,187 @@
+[
+  {
+  "id": 1,
+  "title": "Dragon",
+  "year": 2025,
+  "genre": "Fantasy",
+  "duration": "2h 15m",
+  "description": "An epic fantasy adventure about a mythical dragon and its quest to save the kingdom.",
+  "video_link": "https://drive.google.com/uc?export=download&id=14RArMgiuYCoKC6G1J9xscRhL-Np-JLCf",
+  "poster_url": "https://via.placeholder.com/300x450.png?text=Dragon+Poster"
+},
+  {
+    "id": 2,
+    "title": "Black Panther: Wakanda Forever",
+    "genre": "Action, Drama",
+    "thumbnail": "https://img.youtube.com/vi/_Z3QKkl1WyM/hqdefault.jpg",
+    "video": "https://www.youtube.com/embed/_Z3QKkl1WyM",
+    "description": "The people of Wakanda face a new threat while honoring their fallen king.",
+    "year": 2022,
+    "rating": 6.9,
+    "poster": "https://img.youtube.com/vi/_Z3QKkl1WyM/hqdefault.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Sample Action Movie",
+    "genre": "Action",
+    "thumbnail": "https://example.com/sample-action-poster.jpg",
+    "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "description": "A high-octane action film with intense chase scenes.",
+    "year": 2023,
+    "rating": 8.0,
+    "poster": "https://example.com/sample-action-poster.jpg"
+  },
+  {
+    "id": 4,
+    "title": "John Wick: Chapter 4",
+    "genre": "Action, Thriller",
+    "thumbnail": "https://img.youtube.com/vi/qEVUtrk8_B4/hqdefault.jpg",
+    "video": "https://www.youtube.com/embed/qEVUtrk8_B4",
+    "description": "John Wick takes on a global crime syndicate in his deadliest mission yet.",
+    "year": 2023,
+    "rating": 7.8,
+    "poster": "https://img.youtube.com/vi/qEVUtrk8_B4/hqdefault.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "genre": "Fantasy, Action",
+    "thumbnail": "https://img.youtube.com/vi/aWzlQ2N6qqg/hqdefault.jpg",
+    "video": "https://www.youtube.com/embed/aWzlQ2N6qqg",
+    "description": "Doctor Strange navigates the multiverse to confront a mysterious threat.",
+    "year": 2022,
+    "rating": 6.9,
+    "poster": "https://img.youtube.com/vi/aWzlQ2N6qqg/hqdefault.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Spider-Man: No Way Home",
+    "genre": "Action, Adventure",
+    "thumbnail": "https://img.youtube.com/vi/JfVOs4VSpmA/hqdefault.jpg",
+    "video": "https://www.youtube.com/embed/JfVOs4VSpmA",
+    "description": "Peter Parker faces challenges from multiple universes.",
+    "year": 2021,
+    "rating": 8.2,
+    "poster": "https://img.youtube.com/vi/JfVOs4VSpmA/hqdefault.jpg"
+  },
+  {
+    "id": 7,
+    "title": "The Batman",
+    "genre": "Action, Crime",
+    "thumbnail": "https://img.youtube.com/vi/mqqft2x_Aa4/hqdefault.jpg",
+    "video": "https://www.youtube.com/embed/mqqft2x_Aa4",
+    "description": "Batman investigates a series of murders in Gotham City.",
+    "year": 2022,
+    "rating": 7.8,
+    "poster": "https://img.youtube.com/vi/mqqft2x_Aa4/hqdefault.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Thor: Love and Thunder",
+    "genre": "Fantasy, Comedy",
+    "thumbnail": "https://img.youtube.com/vi/Go8nTmfrQd8/hqdefault.jpg",
+    "video": "https://www.youtube.com/embed/Go8nTmfrQd8",
+    "description": "Thor embarks on a cosmic adventure with new allies.",
+    "year": 2022,
+    "rating": 6.2,
+    "poster": "https://img.youtube.com/vi/Go8nTmfrQd8/hqdefault.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Guardians of the Galaxy Vol. 3",
+    "genre": "Action, Sci-Fi",
+    "thumbnail": "https://img.youtube.com/vi/u3V5KDHRQvk/hqdefault.jpg",
+    "video": "https://www.youtube.com/embed/u3V5KDHRQvk",
+    "description": "The Guardians face their toughest challenge yet.",
+    "year": 2023,
+    "rating": 7.9,
+    "poster": "https://img.youtube.com/vi/u3V5KDHRQvk/hqdefault.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Ant-Man and the Wasp: Quantumania",
+    "genre": "Sci-Fi, Adventure",
+    "thumbnail": "https://img.youtube.com/vi/ZlNFpri-Y40/hqdefault.jpg",
+    "video": "https://www.youtube.com/embed/ZlNFpri-Y40",
+    "description": "Scott Lang and Hope van Dyne explore the Quantum Realm.",
+    "year": 2023,
+    "rating": 6.1,
+    "poster": "https://img.youtube.com/vi/ZlNFpri-Y40/hqdefault.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Sample Sci-Fi Movie",
+    "genre": "Sci-Fi",
+    "thumbnail": "https://example.com/sample-scifi-poster.jpg",
+    "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "description": "A futuristic journey through a distant galaxy.",
+    "year": 2024,
+    "rating": 7.5,
+    "poster": "https://example.com/sample-scifi-poster.jpg"
+  },
+  {
+    "id": 12,
+    "title": "The Matrix Resurrections",
+    "genre": "Sci-Fi, Action",
+    "thumbnail": "https://img.youtube.com/vi/9ix7TSEBv7A/hqdefault.jpg",
+    "video": "https://www.youtube.com/embed/9ix7TSEBv7A",
+    "description": "Neo returns to the Matrix to uncover new truths.",
+    "year": 2021,
+    "rating": 5.7,
+    "poster": "https://img.youtube.com/vi/9ix7TSEBv7A/hqdefault.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Dune: Part Two",
+    "genre": "Sci-Fi, Drama",
+    "thumbnail": "https://img.youtube.com/vi/Way9Dexny3w/hqdefault.jpg",
+    "video": "https://www.youtube.com/embed/Way9Dexny3w",
+    "description": "Paul Atreides continues his journey on the desert planet Arrakis.",
+    "year": 2024,
+    "rating": 8.6,
+    "poster": "https://img.youtube.com/vi/Way9Dexny3w/hqdefault.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Sample Comedy Movie",
+    "genre": "Comedy",
+    "thumbnail": "https://example.com/sample-comedy-poster.jpg",
+    "video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "description": "A hilarious misadventure of unlikely heroes.",
+    "year": 2023,
+    "rating": 6.8,
+    "poster": "https://example.com/sample-comedy-poster.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Barbie",
+    "genre": "Comedy, Fantasy",
+    "thumbnail": "https://img.youtube.com/vi/pBk4NYhWNMM/hqdefault.jpg",
+    "video": "https://www.youtube.com/embed/pBk4NYhWNMM",
+    "description": "Barbie ventures into the real world for an unexpected adventure.",
+    "year": 2023,
+    "rating": 7.0,
+    "poster": "https://img.youtube.com/vi/pBk4NYhWNMM/hqdefault.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Oppenheimer",
+    "genre": "Drama, History",
+    "thumbnail": "https://img.youtube.com/vi/uYPbbksJxIg/hqdefault.jpg",
+    "video": "https://www.youtube.com/embed/uYPbbksJxIg",
+    "description": "The story of J. Robert Oppenheimer and the atomic bomb.",
+    "year": 2023,
+    "rating": 8.4,
+    "poster": "https://img.youtube.com/vi/uYPbbksJxIg/hqdefault.jpg"
+  },
+{
+  "id": 1,
+  "title": "Dragon",
+  "year": 2025,
+  "genre": "Fantasy",
+  "duration": "2h 15m",
+  "description": "An epic fantasy adventure about a mythical dragon and its quest to save the kingdom.",
+  "video_link": "https://drive.google.com/uc?export=download&id=14RArMgiuYCoKC6G1J9xscRhL-Np-JLCf",
+  "poster_url": "https://via.placeholder.com/300x450.png?text=Dragon+Poster"
+}
+]

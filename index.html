@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Abong Movies</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Canvas Background -->
+  <canvas id="bg-canvas" aria-hidden="true"></canvas>
+
+  <!-- Loader -->
+  <div id="abong-loader" class="abong-loader" role="status" aria-label="Loading Abong Movies">
+    <div class="abong-center">
+      <svg id="abong-mascot" viewBox="0 0 200 200" width="120" height="120" aria-hidden="true" role="img">
+        <defs>
+          <radialGradient id="mascotGold" cx="50%" cy="50%" r="80%">
+            <stop offset="0%" stop-color="#fff9df"/>
+            <stop offset="40%" stop-color="#ffe18a"/>
+            <stop offset="70%" stop-color="#d9a434"/>
+            <stop offset="100%" stop-color="#a66b18"/>
+          </radialGradient>
+          <filter id="mascotGlow">
+            <feGaussianBlur in="SourceAlpha" stdDeviation="6" result="blur"/>
+            <feFlood flood-color="#ffd86b" flood-opacity="0.7"/>
+            <feComposite in2="blur" operator="in"/>
+            <feMerge>
+              <feMergeNode/>
+              <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+          </filter>
+        </defs>
+        <circle cx="100" cy="100" r="80" fill="#151515" opacity="0.95"/>
+        <g fill="#0b0b0b" opacity="0.95">
+          <rect x="40" y="50" width="10" height="20" rx="2"/>
+          <rect x="150" y="50" width="10" height="20" rx="2"/>
+          <rect x="40" y="130" width="10" height="20" rx="2"/>
+          <rect x="150" y="130" width="10" height="20" rx="2"/>
+        </g>
+        <g class="clapper" transform="translate(70,60) scale(0.6)">
+          <rect x="0" y="0" width="60" height="40" rx="4" fill="url(#mascotGold)" filter="url(#mascotGlow)"/>
+          <rect x="0" y="40" width="60" height="20" fill="#111"/>
+          <path d="M0 0 L20 20 L40 0 L60 20 L60 0" fill="none" stroke="#fff" stroke-width="4"/>
+        </g>
+      </svg>
+      <svg id="abong-logo" viewBox="0 0 600 100" width="400" height="80" aria-hidden="true" role="img">
+        <defs>
+          <radialGradient id="logoGold" cx="50%" cy="50%" r="80%">
+            <stop offset="0%" stop-color="#fff9df"/>
+            <stop offset="40%" stop-color="#ffe18a"/>
+            <stop offset="70%" stop-color="#d9a434"/>
+            <stop offset="100%" stop-color="#a66b18"/>
+          </radialGradient>
+          <linearGradient id="sparkleShine" x1="0" x2="1">
+            <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+            <stop offset="50%" stop-color="#ffffff" stop-opacity="0.8"/>
+            <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+          </linearGradient>
+          <mask id="sparkleMask">
+            <rect x="0" y="0" width="100%" height="100%" fill="black"/>
+            <rect id="sparkleRect" x="-150" y="-20" width="100" height="140" fill="white" transform="skewX(-15)"/>
+          </mask>
+        </defs>
+        <text id="abong-text" x="50%" y="70" font-family="'Poppins', 'Roboto', sans-serif" font-size="60" font-weight="900" letter-spacing="3" fill="url(#logoGold)" stroke="#2a1f10" stroke-width="0.8" text-anchor="middle" paint-order="stroke">
+          ABONG MOVIES
+        </text>
+        <g mask="url(#sparkleMask)">
+          <rect x="-200" y="0" width="200" height="100" fill="url(#sparkleShine)" transform="rotate(-15)"/>
+        </g>
+      </svg>
+      <div class="abong-text-fallback">ABONG MOVIES</div>
+    </div>
+    <div class="abong-footer">
+      <div class="powered-by">Powered by <span class="llydra">LLydra</span></div>
+    </div>
+  </div>
+
+  <div id="home-layout" class="hidden">
+    <!-- Navigation Bar -->
+    <nav class="navigation" role="navigation">
+      <button id="home-btn" class="nav-btn" aria-label="Home">
+        <svg viewBox="0 0 24 24" class="icon">
+          <path d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-4 0v-4h4v4" stroke="currentColor" stroke-width="2" fill="none"/>
+        </svg>
+      </button>
+      <button id="genre-btn" class="nav-btn" aria-label="Genres">
+        <svg viewBox="0 0 24 24" class="icon">
+          <path d="M4 6h16M4 12h16M4 18h16" stroke="currentColor" stroke-width="2" fill="none"/>
+        </svg>
+      </button>
+      <button id="settings-btn" class="nav-btn" aria-label="Settings">
+        <svg viewBox="0 0 24 24" class="icon">
+          <path d="M19.14 12.94a7.2 7.2 0 0 0 .1-1.94 7.2 7.2 0 0 0-.1-1.94l2.03-1.58a1 1 0 0 0 .23-1.27l-2-3.46a1 1 0 0 0-1.22-.36l-2.39.96a7.12 7.12 0 0 0-1.69-1l-.29-2.55A1 1 0 0 0 12 0H12a1 1 0 0 0-.98.81l-.29 2.55a7.12 7.12 0 0 0-1.69 1l-2.39-.96a1 1 0 0 0-1.22.36l-2 3.46a1 1 0 0 0 .23 1.27l2.03 1.58a7.2 7.2 0 0 0 0 3.88l-2.03 1.58a1 1 0 0 0-.23 1.27l2 3.46a1 1 0 0 0 1.22.36l2.39-.96a7.12 7.12 0 0 0 1.69 1l.29 2.55a1 1 0 0 0 .98.81h0a1 1 0 0 0 .98-.81l.29-2.55a7.12 7.12 0 0 0 1.69-1l2.39.96a1 1 0 0 0 1.22-.36l2-3.46a1 1 0 0 0-.23-1.27l-2.03-1.58zM12 16a4 4 0 1 1 0-8 4 4 0 0 1 0 8z" fill="currentColor"/>
+        </svg>
+      </button>
+      <button id="store-btn" class="nav-btn" aria-label="Store">
+        <svg viewBox="0 0 24 24" class="icon">
+          <path d="M3 3h18l-2 12H5L3 3zM7 21a2 2 0 100-4 2 2 0 000 4zm10 0a2 2 0 100-4 2 2 0 000 4z" stroke="currentColor" stroke-width="2" fill="none"/>
+        </svg>
+      </button>
+      <button id="profile-btn" class="nav-btn" aria-label="Profile">
+        <svg viewBox="0 0 24 24" class="icon">
+          <path d="M12 12c2.21 0 4-1.79 4-4S14.21 4 12 4s-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z" fill="currentColor"/>
+        </svg>
+      </button>
+      <div id="genre-popup" class="genre-box hidden">
+        <ul id="genre-list"></ul>
+      </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero-banner">
+      <div class="search-bar-container">
+        <svg class="search-back-icon hidden" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M15 18l-6-6 6-6"/>
+        </svg>
+        <input type="text" id="search-input" placeholder="Search movies..." aria-label="Search movies" role="search">
+        <ul class="search-dropdown hidden"></ul>
+      </div>
+      <video autoplay muted loop playsinline class="hero-video" id="heroVideo" poster="">
+        <source src="assets/trailer.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+      <div class="hero-content">
+        <h1 id="heroTitle" class="movie-title">Loading...</h1>
+        <p id="heroTagline" class="movie-tagline">Please wait...</p>
+        <button id="watchTrailerBtn" class="watch-btn">▶ Watch Trailer</button>
+      </div>
+    </section>
+
+    <!-- Movie Categories Section -->
+    <section class="movie-categories">
+      <div class="category-list" id="categoryList"></div>
+    </section>
+
+    <!-- Movie Grid Section -->
+    <section class="movie-grid-section">
+      <div class="movie-grid" id="movieGrid"></div>
+    </section>
+
+    <!-- Watch Area -->
+    <section id="watch-area" class="hidden">
+      <header class="watch-header">
+        <svg id="watch-back-btn" class="watch-back-icon" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" aria-label="Back to home">
+          <path d="M15 18l-6-6 6-6"/>
+        </svg>
+        <input type="text" id="watch-search-input" placeholder="Search movies..." aria-label="Search movies in watch mode" role="search" class="watch-search-bar">
+        <h2 id="watch-title"></h2>
+        <button id="close-watch" class="close-btn" aria-label="Close watch player">⚔️</button>
+      </header>
+      <div class="watch-player-container">
+        <canvas id="watch-canvas"></canvas>
+        <video id="watch-video" preload="auto" style="display: none;">
+          <source src="" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+        <div class="overlay-title hidden">Watching: <span id="overlay-movie-title"></span></div>
+      </div>
+      <div id="watch-captions" class="watch-captions hidden"></div>
+      <div class="watch-info">
+        <p id="watch-description"></p>
+        <div class="watch-meta">
+          <span id="watch-genre"></span> •
+          <span id="watch-year"></span> •
+          ⭐ <span id="watch-rating"></span>
+        </div>
+      </div>
+      <div class="related-section">
+        <h3>Related Movies</h3>
+        <div id="related-movies" class="related-grid"></div>
+      </div>
+    </section>
+  </div>
+
+  <script type="module" src="main.js"></script>
+  <script type="module" src="search.js"></script>
+  <script type="module" src="watch.js"></script>
+</body>
+</html>

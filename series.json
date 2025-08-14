@@ -1,0 +1,41 @@
+{
+  "series": {
+    "title": "Mufasa: The Lion King",
+    "year": 2025,
+    "type": "movie",
+    "genres": ["animation", "adventure", "drama", "family"],
+    "release_date": "2025-12-20",
+    "director": "Barry Jenkins",
+    "writers": ["Jeff Nathanson"],
+    "actors": ["Aaron Pierre", "Kelvin Harrison Jr.", "Tiffany Boone", "Kagiso Lediga"],
+    "runtime": 119,
+    "storyline": "A prequel to The Lion King, exploring the story of Mufasa's rise to becoming the king of the Pride Lands, his rivalry with his brother Scar, and his legacy within the lion pride.",
+    "imdb_rating": 7.2,
+    "legal_access_points": [
+      {
+        "platform": "Disney+",
+        "url": "https://www.disneyplus.com",
+        "access_type": "streaming",
+        "availability": "Subscription required",
+        "region": "Global (region-specific availability may vary)"
+      },
+      {
+        "platform": "Amazon Prime Video",
+        "url": "https://www.amazon.com/gp/video/storefront",
+        "access_type": "purchase_or_rent",
+        "availability": "Available for digital purchase or rental post-theatrical release",
+        "region": "Global (check regional availability)"
+      },
+      {
+        "platform": "YouTube",
+        "url": "https://www.youtube.com",
+        "access_type": "purchase_or_rent",
+        "availability": "Available for digital purchase or rental post-theatrical release",
+        "region": "Global (check regional availability)"
+      }
+    ],
+    "subtitles_available": ["English", "Spanish", "French", "German", "Italian"],
+    "video_quality": ["4K", "1080p", "720p"],
+    "last_verified": "2025-08-09"
+  }
+}

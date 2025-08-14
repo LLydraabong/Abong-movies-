@@ -1,0 +1,505 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://localhost:7700/index.html
+Subject: Movie App
+Date: Thu, 7 Aug 2025 13:44:06 +0300
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--GG1OQ1nOnMUYSuHfyVwEjZnS97yKgeqZHHKqMn8tad----"
+
+
+------MultipartBoundary--GG1OQ1nOnMUYSuHfyVwEjZnS97yKgeqZHHKqMn8tad----
+Content-Type: text/html
+Content-ID: <frame-1C24618B8881AA5334B3B15D9A17A421@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://localhost:7700/index.html
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-93a893c8-985d-458d-b17d-bdb5418ce3c5@mhtml.blink" />
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Movie App</title>
+  <link rel="stylesheet" href="http://localhost:7700/style.css">
+ </head><div style="all: initial;"><template shadowmode="open"><div id="eruda" class="eruda-container" contenteditable="false"><div class="eruda-dev-tools" style="height: 50%; opacity: 0; display: none;"><div class="eruda-resize-gutter"></div><div class="eruda-nav-bar-container"><div class="eruda-nav-bar"><div class="eruda-nav-bar-item eruda-active">console</div><div class="eruda-nav-bar-item">elements</div><div class="eruda-nav-bar-item">network</div><div class="eruda-nav-bar-item">resources</div><div class="eruda-nav-bar-item">settings</div></div><div class="eruda-bottom-bar" style="width: 64px; left: 0px;"></div></div><div class="eruda-tools"><div id="eruda-resources" class="eruda-resources eruda-tool"><div class="eruda-section eruda-local-storage"><h2 class="eruda-title">Local Storage<div class="eruda-btn eruda-refresh-local-storage"><span class="eruda-icon-refresh"></span></div><div class="eruda-btn eruda-clear-storage" data-type="local"><span class="eruda-icon-clear"></span></div><div class="eruda-btn eruda-search" data-type="local"><span class="eruda-icon-search"></span></div>  </h2><div class="eruda-content"><table><tbody>   <tr><td class="eruda-key">eruda-network</td><td class="eruda-storage-val" data-key="eruda-network" data-type="local">{"overrideFetch":true}</td><td class="eruda-control"><span class="eruda-icon-delete eruda-delete-storage" data-key="eruda-network" data-type="local"></span></td></tr>  <tr><td class="eruda-key">eruda-entry-button</td><td class="eruda-storage-val" data-key="eruda-entry-button" data-type="local">{"rememberPos":true,"pos":{"x":326,"y":575}}</td><td class="eruda-control"><span class="eruda-icon-delete eruda-delete-storage" data-key="eruda-entry-button" data-type="local"></span></td></tr>  <tr><td class="eruda-key">eruda-dev-tools</td><td class="eruda-storage-val" data-key="eruda-dev-tools" data-type="local">{"transparency":1,"displaySize":50,"theme":"Dark"}</td><td class="eruda-control"><span class="eruda-icon-delete eruda-delete-storage" data-key="eruda-dev-tools" data-type="local"></span></td></tr>  <tr><td class="eruda-key">eruda-console</td><td class="eruda-storage-val" data-key="eruda-console" data-type="local">{"asyncRender":false,"catchGlobalErr":true,"jsExecution":true,"overrideConsole":true,"displayExtraInfo":true,"displayUnenumerable":true,"displayGetterVal":true,"lazyEvaluation":false,"displayIfErr":fa...</td><td class="eruda-control"><span class="eruda-icon-delete eruda-delete-storage" data-key="eruda-console" data-type="local"></span></td></tr>  <tr><td class="eruda-key">eruda-resources</td><td class="eruda-storage-val" data-key="eruda-resources" data-type="local">{"hideErudaSetting":true,"observeElement":true}</td><td class="eruda-control"><span class="eruda-icon-delete eruda-delete-storage" data-key="eruda-resources" data-type="local"></span></td></tr>  <tr><td class="eruda-key">eruda-elements</td><td class="eruda-storage-val" data-key="eruda-elements" data-type="local">{"overrideEventTarget":true,"observeElement":true}</td><td class="eruda-control"><span class="eruda-icon-delete eruda-delete-storage" data-key="eruda-elements" data-type="local"></span></td></tr>   </tbody></table></div></div><div class="eruda-section eruda-session-storage"><h2 class="eruda-title">Session Storage<div class="eruda-btn eruda-refresh-session-storage"><span class="eruda-icon-refresh"></span></div><div class="eruda-btn eruda-clear-storage" data-type="session"><span class="eruda-icon-clear"></span></div><div class="eruda-btn eruda-search" data-type="session"><span class="eruda-icon-search"></span></div>  </h2><div class="eruda-content"><table><tbody>  <tr><td>Empty</td></tr>  </tbody></table></div></div><div class="eruda-section eruda-cookie eruda-"><h2 class="eruda-title">Cookie<div class="eruda-btn eruda-refresh-cookie"><span class="eruda-icon-refresh"></span></div><div class="eruda-btn eruda-clear-cookie"><span class="eruda-icon-clear"></span></div><div class="eruda-btn eruda-search" data-type="cookie"><span class="eruda-icon-search"></span></div>  </h2><div class="eruda-content"><table><tbody>  <tr><td>Empty</td></tr>  </tbody></table></div></div><div class="eruda-section eruda-script eruda-"><h2 class="eruda-title">Script<div class="eruda-btn eruda-refresh-script"><span class="eruda-icon-refresh"></span></div></h2><ul class="eruda-link-list">  <li>Empty</li>  </ul></div><div class="eruda-section eruda-stylesheet eruda-"><h2 class="eruda-title">Stylesheet<div class="eruda-btn eruda-refresh-stylesheet"><span class="eruda-icon-refresh"></span></div></h2><ul class="eruda-link-list">  <li>Empty</li>  </ul></div><div class="eruda-section eruda-iframe"><h2 class="eruda-title">Iframe<div class="eruda-btn eruda-refresh-iframe"><span class="eruda-icon-refresh"></span></div></h2><ul class="eruda-link-list">  <li>Empty</li>  </ul></div><div class="eruda-section eruda-image"><h2 class="eruda-title eruda-">Image<div class="eruda-btn eruda-refresh-image"><span class="eruda-icon-refresh"></span></div></h2><ul class="eruda-image-list">  <li>Empty</li>  </ul></div></div><div id="eruda-network" class="eruda-network eruda-tool"><div class="eruda-title">Request<div class="eruda-btn eruda-clear-request"><span class="eruda-icon-clear"></span></div></div><ul class="eruda-requests"></ul><div class="eruda-detail"></div></div><div id="eruda-elements" class="eruda-elements eruda-tool"><div class="eruda-show-area"></div><div class="eruda-bottom-bar"><div class="eruda-btn eruda-select"><span class="eruda-icon eruda-icon-select"></span></div><div class="eruda-btn eruda-refresh"><span class="eruda-icon eruda-icon-refresh"></span></div><div class="eruda-btn eruda-highlight"><span class="eruda-icon eruda-icon-eye"></span></div><div class="eruda-btn eruda-reset"><span class="eruda-icon eruda-icon-reset"></span></div></div></div><div id="eruda-console" class="eruda-console eruda-tool" style="display: block;"><div class="eruda-console-container"><div class="eruda-control"><span class="eruda-icon-clear eruda-clear-console"></span> <span class="eruda-filter" data-filter="all">All</span> <span class="eruda-filter" data-filter="error">Error</span> <span class="eruda-filter eruda-active" data-filter="warn">Warning</span> <span class="eruda-filter" data-filter="info">Info</span> <span class="eruda-search-keyword"></span> <span class="eruda-icon-search eruda-search"></span></div><div class="eruda-logs-container"><div class="eruda-logs-space" style="height: 106px;"><div class="eruda-fake-logs"></div><div class="eruda-logs" style="top: 0px;"></div></div></div><div class="eruda-js-input" style="display: block;"><div class="eruda-buttons"><div class="eruda-button eruda-cancel">Cancel</div><div class="eruda-button eruda-execute">Execute</div></div><span class="eruda-icon-arrow-right"></span> <textarea autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"></textarea></div></div></div><div id="eruda-settings" class="eruda-settings eruda-tool"><div class="eruda-separator"></div><div id="eruda-settings1" class="eruda-switch"> Remember Entry Button Position <label class="eruda-checkbox"><input type="checkbox" class="eruda-input" data-id="eruda-settings1" checked="checked"> <span class="eruda-label"></span> <span class="eruda-handle"></span></label></div><div class="eruda-separator"></div><div id="eruda-settings2" class="eruda-select"><div class="eruda-head"> Theme <span class="eruda-val">Dark</span></div><ul data-id="eruda-settings2">  <li>Light</li>  <li>Dark</li>  <li>Material Oceanic</li>  <li>Material Darker</li>  <li>Material Lighter</li>  <li>Material Palenight</li>  <li>Material Deep Ocean</li>  <li>Monokai Pro</li>  <li>Dracula</li>  <li>Arc Dark</li>  <li>Atom One Dark</li>  <li>Atom One Light</li>  <li>Solarized Dark</li>  <li>Solarized Light</li>  <li>Github</li>  <li>Night Owl</li>  <li>Light Owl</li>  </ul></div><div id="eruda-settings3" class="eruda-range"><div class="eruda-head"> Transparency <span class="eruda-val">1</span></div><div class="eruda-input-container" data-id="eruda-settings3"><div class="eruda-range-track"><div class="eruda-range-track-bar"><div class="eruda-range-track-progress" style="width: 100.00%"></div></div></div><input type="range" min="0.2" max="1" step="0.01" value="1"></div></div><div id="eruda-settings4" class="eruda-range"><div class="eruda-head"> Display Size <span class="eruda-val">50</span></div><div class="eruda-input-container" data-id="eruda-settings4"><div class="eruda-range-track"><div class="eruda-range-track-bar"><div class="eruda-range-track-progress" style="width: 16.67%"></div></div></div><input type="range" min="40" max="100" step="1" value="50"></div></div><div class="eruda-separator"></div><div class="eruda-text">Console</div><div id="eruda-settings5" class="eruda-switch"> Asynchronous Rendering <label class="eruda-checkbox"><input type="checkbox" class="eruda-input" data-id="eruda-settings5"> <span class="eruda-label"></span> <span class="eruda-handle"></span></label></div><div id="eruda-settings6" class="eruda-switch"> Enable JavaScript Execution <label class="eruda-checkbox"><input type="checkbox" class="eruda-input" data-id="eruda-settings6" checked="checked"> <span class="eruda-label"></span> <span class="eruda-handle"></span></label></div><div id="eruda-settings7" class="eruda-switch"> Catch Global Errors <label class="eruda-checkbox"><input type="checkbox" class="eruda-input" data-id="eruda-settings7" checked="checked"> <span class="eruda-label"></span> <span class="eruda-handle"></span></label></div><div id="eruda-settings8" class="eruda-switch"> Override Console <label class="eruda-checkbox"><input type="checkbox" class="eruda-input" data-id="eruda-settings8" checked="checked"> <span class="eruda-label"></span> <span class="eruda-handle"></span></label></div><div id="eruda-settings9" class="eruda-switch"> Auto Display If Error Occurs <label class="eruda-checkbox"><input type="checkbox" class="eruda-input" data-id="eruda-settings9"> <span class="eruda-label"></span> <span class="eruda-handle"></span></label></div><div id="eruda-settings10" class="eruda-switch"> Display Extra Information <label class="eruda-checkbox"><input type="checkbox" class="eruda-input" data-id="eruda-settings10" checked="checked"> <span class="eruda-label"></span> <span class="eruda-handle"></span></label></div><div id="eruda-settings11" class="eruda-switch"> Display Unenumerable Properties <label class="eruda-checkbox"><input type="checkbox" class="eruda-input" data-id="eruda-settings11" checked="checked"> <span class="eruda-label"></span> <span class="eruda-handle"></span></label></div><div id="eruda-settings12" class="eruda-switch"> Access Getter Value <label class="eruda-checkbox"><input type="checkbox" class="eruda-input" data-id="eruda-settings12" checked="checked"> <span class="eruda-label"></span> <span class="eruda-handle"></span></label></div><div id="eruda-settings13" class="eruda-switch"> Lazy Evaluation <label class="eruda-checkbox"><input type="checkbox" class="eruda-input" data-id="eruda-settings13"> <span class="eruda-label"></span> <span class="eruda-handle"></span></label></div><div id="eruda-settings14" class="eruda-select"><div class="eruda-head"> Max Log Number <span class="eruda-val">infinite</span></div><ul data-id="eruda-settings14">  <li>infinite</li>  <li>250</li>  <li>125</li>  <li>100</li>  <li>50</li>  <li>10</li>  </ul></div><div class="eruda-separator"></div><div class="eruda-text">Elements</div><div id="eruda-settings15" class="eruda-switch"> Catch Event Listeners <label class="eruda-checkbox"><input type="checkbox" class="eruda-input" data-id="eruda-settings15" checked="checked"> <span class="eruda-label"></span> <span class="eruda-handle"></span></label></div><div id="eruda-settings16" class="eruda-switch"> Auto Refresh <label class="eruda-checkbox"><input type="checkbox" class="eruda-input" data-id="eruda-settings16" checked="checked"> <span class="eruda-label"></span> <span class="eruda-handle"></span></label></div><div class="eruda-separator"></div><div class="eruda-text">Network</div><div id="eruda-settings17" class="eruda-switch"> Catch Fetch Requests <label class="eruda-checkbox"><input type="checkbox" class="eruda-input" data-id="eruda-settings17" checked="checked"> <span class="eruda-label"></span> <span class="eruda-handle"></span></label></div><div class="eruda-separator"></div><div class="eruda-text">Resources</div><div id="eruda-settings18" class="eruda-switch"> Hide Eruda Setting <label class="eruda-checkbox"><input type="checkbox" class="eruda-input" data-id="eruda-settings18" checked="checked"> <span class="eruda-label"></span> <span class="eruda-handle"></span></label></div><div id="eruda-settings19" class="eruda-switch"> Auto Refresh Elements <label class="eruda-checkbox"><input type="checkbox" class="eruda-input" data-id="eruda-settings19" checked="checked"> <span class="eruda-label"></span> <span class="eruda-handle"></span></label></div><div class="eruda-separator"></div></div></div></div><div class="eruda-entry-btn" style="touch-action: none; left: 326px; top: 575px;"><span class="eruda-icon-tool"></span></div><div class="eruda-elements-highlight"><div class="eruda-indicator"><div class="eruda-margin"></div><div class="eruda-border"></div><div class="eruda-padding"></div><div class="eruda-content"></div></div><div class="eruda-size"></div></div></div></template></div>
+ <body>
+  <!-- Canvas Background -->
+  <canvas id="bg-canvas" width="376" height="625"></canvas><!-- Navigation Bar -->
+  <nav class="navigation">
+   <button id="home-btn" class="nav-btn" aria-label="Home">
+    <svg viewBox="0 0 24 24" class="icon">
+     <path d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-4 0v-4h4v4" stroke="currentColor" stroke-width="2" fill="none"></path>
+    </svg></button> <button id="genre-btn" class="nav-btn" aria-label="Genres">
+    <svg viewBox="0 0 24 24" class="icon">
+     <path d="M4 6h16M4 12h16M4 18h16" stroke="currentColor" stroke-width="2" fill="none"></path>
+    </svg></button> <button id="search-btn" class="nav-btn" aria-label="Search">
+    <svg viewBox="0 0 24 24" class="icon">
+     <path d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" stroke="currentColor" stroke-width="2" fill="none"></path>
+    </svg></button> <!-- Genre List Pop-up -->
+   <div id="genre-popup" class="genre-box hidden">
+    <ul id="genre-list"><li>Sci-Fi</li><li>Action</li><li>Animation</li><li>Drama</li></ul>
+   </div><button id="profile-btn" class="nav-btn" aria-label="Profile">
+    <svg viewBox="0 0 24 24" class="icon">
+     <path d="M12 12c2.21 0 4-1.79 4-4S14.21 4 12 4s-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z" fill="currentColor"></path>
+    </svg></button>
+  </nav><!-- Hero Section -->
+  <section class="hero-banner">
+   <video autoplay="" muted="" loop="" playsinline="" class="hero-video" id="heroVideo" poster="https://yts.mx/assets/images/movies/animalistic_2015/large-cover.jpg">
+    <source src="http://localhost:7700/assets/trailer.mp4" type="video/mp4"> Your browser does not support the video tag.
+   </video>
+   <div class="hero-content">
+    <h1 id="heroTitle" class="movie-title">Animalistic</h1>
+    <p id="heroTagline" class="movie-tagline">2015 • ⭐ 3.5</p><button id="watchTrailerBtn" class="watch-btn">▶ Watch Trailer</button>
+   </div>
+  </section><!-- Movie Categories Section -->
+  <section class="movie-categories">
+   <div class="category-list" id="categoryList"><div class="category-item">Sci-Fi</div><div class="category-item">Action</div><div class="category-item">Animation</div><div class="category-item">Drama</div></div>
+  </section><!-- Movie Grid Section -->
+  <section class="movie-grid-section">
+   <div class="movie-grid" id="movieGrid"><div class="movie-card">
+      <img class="movie-poster" src="http://localhost:7700/img/inception.jpg" alt="Inception">
+      <div class="movie-info">
+        <div class="movie-title">Inception</div>
+        <div class="movie-meta">
+          <span>Sci-Fi</span>
+          <span>⭐ N/A</span>
+        </div>
+      </div>
+    </div><div class="movie-card">
+      <img class="movie-poster" src="http://localhost:7700/img/endgame.jpg" alt="Avengers: Endgame">
+      <div class="movie-info">
+        <div class="movie-title">Avengers: Endgame</div>
+        <div class="movie-meta">
+          <span>Action</span>
+          <span>⭐ N/A</span>
+        </div>
+      </div>
+    </div><div class="movie-card">
+      <img class="movie-poster" src="http://localhost:7700/img/frozen2.jpg" alt="Frozen II">
+      <div class="movie-info">
+        <div class="movie-title">Frozen II</div>
+        <div class="movie-meta">
+          <span>Animation</span>
+          <span>⭐ N/A</span>
+        </div>
+      </div>
+    </div><div class="movie-card">
+      <img class="movie-poster" src="http://localhost:7700/img/darkknight.jpg" alt="The Dark Knight">
+      <div class="movie-info">
+        <div class="movie-title">The Dark Knight</div>
+        <div class="movie-meta">
+          <span>Action</span>
+          <span>⭐ N/A</span>
+        </div>
+      </div>
+    </div><div class="movie-card">
+      <img class="movie-poster" src="http://localhost:7700/img/interstellar.jpg" alt="Interstellar">
+      <div class="movie-info">
+        <div class="movie-title">Interstellar</div>
+        <div class="movie-meta">
+          <span>Sci-Fi</span>
+          <span>⭐ N/A</span>
+        </div>
+      </div>
+    </div><div class="movie-card">
+      <img class="movie-poster" src="http://localhost:7700/img/blackpanther.jpg" alt="Black Panther">
+      <div class="movie-info">
+        <div class="movie-title">Black Panther</div>
+        <div class="movie-meta">
+          <span>Action</span>
+          <span>⭐ N/A</span>
+        </div>
+      </div>
+    </div><div class="movie-card">
+      <img class="movie-poster" src="http://localhost:7700/img/moana.jpg" alt="Moana">
+      <div class="movie-info">
+        <div class="movie-title">Moana</div>
+        <div class="movie-meta">
+          <span>Animation</span>
+          <span>⭐ N/A</span>
+        </div>
+      </div>
+    </div><div class="movie-card">
+      <img class="movie-poster" src="http://localhost:7700/img/matrix.jpg" alt="The Matrix">
+      <div class="movie-info">
+        <div class="movie-title">The Matrix</div>
+        <div class="movie-meta">
+          <span>Sci-Fi</span>
+          <span>⭐ N/A</span>
+        </div>
+      </div>
+    </div><div class="movie-card">
+      <img class="movie-poster" src="http://localhost:7700/img/joker.jpg" alt="Joker">
+      <div class="movie-info">
+        <div class="movie-title">Joker</div>
+        <div class="movie-meta">
+          <span>Drama</span>
+          <span>⭐ N/A</span>
+        </div>
+      </div>
+    </div><div class="movie-card">
+      <img class="movie-poster" src="http://localhost:7700/img/toystory4.jpg" alt="Toy Story 4">
+      <div class="movie-info">
+        <div class="movie-title">Toy Story 4</div>
+        <div class="movie-meta">
+          <span>Animation</span>
+          <span>⭐ N/A</span>
+        </div>
+      </div>
+    </div><div class="movie-card">
+      <img class="movie-poster" src="http://localhost:7700/img/tenet.jpg" alt="Tenet">
+      <div class="movie-info">
+        <div class="movie-title">Tenet</div>
+        <div class="movie-meta">
+          <span>Sci-Fi</span>
+          <span>⭐ N/A</span>
+        </div>
+      </div>
+    </div><div class="movie-card">
+      <img class="movie-poster" src="http://localhost:7700/img/ww84.jpg" alt="Wonder Woman 1984">
+      <div class="movie-info">
+        <div class="movie-title">Wonder Woman 1984</div>
+        <div class="movie-meta">
+          <span>Action</span>
+          <span>⭐ N/A</span>
+        </div>
+      </div>
+    </div><div class="movie-card">
+      <img class="movie-poster" src="http://localhost:7700/img/encanto.jpg" alt="Encanto">
+      <div class="movie-info">
+        <div class="movie-title">Encanto</div>
+        <div class="movie-meta">
+          <span>Animation</span>
+          <span>⭐ N/A</span>
+        </div>
+      </div>
+    </div><div class="movie-card">
+      <img class="movie-poster" src="http://localhost:7700/img/gravity.jpg" alt="Gravity">
+      <div class="movie-info">
+        <div class="movie-title">Gravity</div>
+        <div class="movie-meta">
+          <span>Sci-Fi</span>
+          <span>⭐ N/A</span>
+        </div>
+      </div>
+    </div><div class="movie-card">
+      <img class="movie-poster" src="http://localhost:7700/img/shazam.jpg" alt="Shazam!">
+      <div class="movie-info">
+        <div class="movie-title">Shazam!</div>
+        <div class="movie-meta">
+          <span>Action</span>
+          <span>⭐ N/A</span>
+        </div>
+      </div>
+    </div><div class="movie-card">
+      <img class="movie-poster" src="https://via.placeholder.com/150x220?text=Fast+Action" alt="Fast Action">
+      <div class="movie-info">
+        <div class="movie-title">Fast Action</div>
+        <div class="movie-meta">
+          <span>Action</span>
+          <span>⭐ N/A</span>
+        </div>
+      </div>
+    </div><div class="movie-card">
+      <img class="movie-poster" src="https://via.placeholder.com/150x220?text=Night+Runner" alt="Night Runner">
+      <div class="movie-info">
+        <div class="movie-title">Night Runner</div>
+        <div class="movie-meta">
+          <span>Action</span>
+          <span>⭐ N/A</span>
+        </div>
+      </div>
+    </div></div>
+  </section><!-- Search Section -->
+  <div class="search-section">
+   <input type="text" id="searchInput" placeholder="Search movies..."> <button id="searchBtn">🔍</button>
+  </div>
+  <section id="home-section">
+   <div id="movie-list">
+    <div class="movie-card" data-id="1">
+      <img src="http://localhost:7700/img/inception.jpg" alt="Inception">
+      <p>Inception</p>
+    </div>
+  
+    <div class="movie-card" data-id="2">
+      <img src="http://localhost:7700/img/endgame.jpg" alt="Avengers: Endgame">
+      <p>Avengers: Endgame</p>
+    </div>
+  
+    <div class="movie-card" data-id="3">
+      <img src="http://localhost:7700/img/frozen2.jpg" alt="Frozen II">
+      <p>Frozen II</p>
+    </div>
+  
+    <div class="movie-card" data-id="4">
+      <img src="http://localhost:7700/img/darkknight.jpg" alt="The Dark Knight">
+      <p>The Dark Knight</p>
+    </div>
+  
+    <div class="movie-card" data-id="5">
+      <img src="http://localhost:7700/img/interstellar.jpg" alt="Interstellar">
+      <p>Interstellar</p>
+    </div>
+  
+    <div class="movie-card" data-id="6">
+      <img src="http://localhost:7700/img/blackpanther.jpg" alt="Black Panther">
+      <p>Black Panther</p>
+    </div>
+  
+    <div class="movie-card" data-id="7">
+      <img src="http://localhost:7700/img/moana.jpg" alt="Moana">
+      <p>Moana</p>
+    </div>
+  
+    <div class="movie-card" data-id="8">
+      <img src="http://localhost:7700/img/matrix.jpg" alt="The Matrix">
+      <p>The Matrix</p>
+    </div>
+  
+    <div class="movie-card" data-id="9">
+      <img src="http://localhost:7700/img/joker.jpg" alt="Joker">
+      <p>Joker</p>
+    </div>
+  
+    <div class="movie-card" data-id="10">
+      <img src="http://localhost:7700/img/toystory4.jpg" alt="Toy Story 4">
+      <p>Toy Story 4</p>
+    </div>
+  
+    <div class="movie-card" data-id="11">
+      <img src="http://localhost:7700/img/tenet.jpg" alt="Tenet">
+      <p>Tenet</p>
+    </div>
+  
+    <div class="movie-card" data-id="12">
+      <img src="http://localhost:7700/img/ww84.jpg" alt="Wonder Woman 1984">
+      <p>Wonder Woman 1984</p>
+    </div>
+  
+    <div class="movie-card" data-id="13">
+      <img src="http://localhost:7700/img/encanto.jpg" alt="Encanto">
+      <p>Encanto</p>
+    </div>
+  
+    <div class="movie-card" data-id="14">
+      <img src="http://localhost:7700/img/gravity.jpg" alt="Gravity">
+      <p>Gravity</p>
+    </div>
+  
+    <div class="movie-card" data-id="15">
+      <img src="http://localhost:7700/img/shazam.jpg" alt="Shazam!">
+      <p>Shazam!</p>
+    </div>
+  
+    <div class="movie-card" data-id="16">
+      <img src="https://via.placeholder.com/150x220?text=Fast+Action" alt="Fast Action">
+      <p>Fast Action</p>
+    </div>
+  
+    <div class="movie-card" data-id="17">
+      <img src="https://via.placeholder.com/150x220?text=Night+Runner" alt="Night Runner">
+      <p>Night Runner</p>
+    </div>
+  </div>
+  </section>
+  <section id="watching-section" class="hidden">
+   <canvas id="watching-canvas"></canvas>
+   <div class="video-container">
+    <video id="movie-player" class="video-js" controls="" preload="auto">
+     <source id="video-source" src="http://localhost:7700/index.html" type="video/mp4">
+    </video>
+    <h2 class="watch-title"></h2>
+    <p class="watch-description"></p>
+   </div>
+   <div id="related-movies" class="related-movies"></div><button id="back-home">Back to Home</button>
+  </section>
+  <nav>
+   <button id="home-btn">Home</button> <button id="search-btn">Search</button> <button id="settings-btn">Settings</button> <button id="profile-btn">Profile</button>
+  </nav>
+  
+ 
+</body></html>
+------MultipartBoundary--GG1OQ1nOnMUYSuHfyVwEjZnS97yKgeqZHHKqMn8tad----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: http://localhost:7700/style.css
+
+@charset "utf-8";
+
+* { margin: 0px; padding: 0px; box-sizing: border-box; }
+
+html, body { height: 100%; font-family: "Segoe UI", sans-serif; background: rgb(14, 14, 14); color: white; overflow-x: hidden; scroll-behavior: smooth; }
+
+#bg-canvas { position: fixed; top: 0px; left: 0px; z-index: 0; width: 100vw; height: 100vh; pointer-events: none; background: black; }
+
+.navigation { display: flex; justify-content: space-around; align-items: center; background: rgba(30, 30, 30, 0.9); padding: 0.5rem 1rem; backdrop-filter: blur(10px); border-top: 1px solid rgba(255, 255, 255, 0.1); width: 100%; z-index: 99; position: fixed; transition: 0.3s; }
+
+.nav-btn { background: none; border: none; color: white; cursor: pointer; padding: 0.5rem; transition: transform 0.3s, opacity 0.3s; }
+
+.nav-btn:hover { transform: scale(1.2) rotate(5deg); opacity: 0.8; }
+
+.nav-btn.active { color: rgb(255, 65, 65); }
+
+.icon { width: 24px; height: 24px; }
+
+@media (max-width: 1023px) {
+  .navigation { bottom: 0px; top: unset; }
+}
+
+@media (min-width: 1024px) {
+  .navigation { top: 0px; bottom: unset; }
+}
+
+.genre-box { position: fixed; bottom: 60px; left: 50%; transform: translateX(-50%) scale(0.9); background: rgb(30, 30, 30); border-radius: 12px; padding: 1rem; z-index: 100; box-shadow: rgba(0, 0, 0, 0.6) 0px 4px 20px; max-width: 70vw; width: 300px; display: flex; flex-direction: column; gap: 0.5rem; border: 1px solid rgba(255, 255, 255, 0.05); transition: transform 0.3s, opacity 0.3s; }
+
+.genre-box:not(.hidden) { transform: translateX(-50%) scale(1); opacity: 1; }
+
+.genre-box.hidden { opacity: 0; transform: translateX(-50%) scale(0.8); pointer-events: none; }
+
+.genre-box ul { list-style: none; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.5rem; }
+
+.genre-box ul li { background: rgb(41, 41, 41); padding: 0.4rem 0.6rem; border-radius: 8px; text-align: center; color: white; font-size: 0.9rem; cursor: pointer; transition: background 0.2s, transform 0.2s; }
+
+.genre-box ul li:hover { background: rgb(255, 65, 65); transform: translateY(-2px); }
+
+.hero-banner { position: relative; width: 100%; height: 60vh; overflow: hidden; z-index: 1; }
+
+.hero-video { position: absolute; width: 100%; height: 100%; object-fit: cover; filter: brightness(0.9); z-index: 1; }
+
+.hero-content { position: relative; z-index: 2; color: white; padding: 3rem; max-width: 600px; margin-top: 15vh; animation: 1s ease-out 0s 1 normal none running slideIn; }
+
+@keyframes slideIn { 
+  0% { transform: translateY(20px); opacity: 0; }
+  100% { transform: translateY(0px); opacity: 1; }
+}
+
+.movie-title { font-size: 3rem; font-weight: bold; margin-bottom: 0.5rem; }
+
+.movie-tagline { font-size: 1.2rem; margin-bottom: 1.5rem; }
+
+.watch-btn { padding: 0.7rem 1.5rem; background: rgb(255, 65, 65); border: none; border-radius: 8px; color: white; font-size: 1rem; cursor: pointer; transition: background 0.3s, transform 0.3s; }
+
+.watch-btn:hover { background: rgb(255, 28, 28); transform: scale(1.05); }
+
+@media (max-width: 768px) {
+  .movie-title { font-size: 2rem; }
+  .hero-content { padding: 2rem; }
+}
+
+.movie-categories { position: relative; padding: 3rem 1rem; background: linear-gradient(rgb(14, 14, 14), rgb(26, 26, 26)); z-index: 1; }
+
+.category-list { display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; position: relative; z-index: 2; }
+
+.category-item { background: rgba(255, 255, 255, 0.05); color: rgb(255, 255, 255); border: 1px solid rgba(255, 255, 255, 0.1); border-radius: 12px; padding: 0.8rem 1.4rem; font-size: 1rem; cursor: pointer; transition: 0.3s; animation: 0.5s ease-in 0s 1 normal none running fadeIn; }
+
+.category-item:hover { background: rgba(255, 255, 255, 0.12); transform: scale(1.05); box-shadow: rgba(255, 64, 64, 0.4) 0px 0px 15px; }
+
+.movie-grid-section { position: relative; padding: 3rem 1rem; background: radial-gradient(rgb(16, 16, 16), rgb(0, 0, 0)); z-index: 1; }
+
+.movie-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 1.2rem; position: relative; z-index: 2; }
+
+.movie-card { background: rgb(26, 26, 26); border-radius: 12px; overflow: hidden; transition: transform 0.4s, box-shadow 0.4s; cursor: pointer; position: relative; animation: 0.6s ease-in 0s 1 normal none running cardFadeIn; }
+
+.movie-card:hover { transform: translateY(-5px) scale(1.03); box-shadow: rgba(255, 64, 64, 0.3) 0px 8px 20px; }
+
+.movie-poster { width: 100%; height: 240px; object-fit: cover; display: block; transition: filter 0.3s; }
+
+.movie-card:hover .movie-poster { filter: brightness(1.2); }
+
+.movie-info { padding: 0.6rem 0.8rem; color: white; }
+
+.movie-title { font-size: 1rem; font-weight: 600; margin-bottom: 0.3rem; }
+
+.movie-meta { font-size: 0.85rem; color: rgb(170, 170, 170); display: flex; justify-content: space-between; }
+
+@keyframes cardFadeIn { 
+  0% { opacity: 0; transform: translateY(20px); }
+  100% { opacity: 1; transform: translateY(0px); }
+}
+
+@keyframes fadeIn { 
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+.search-section { display: flex; justify-content: center; align-items: center; gap: 0.5rem; padding: 1rem 2rem; background: rgb(17, 17, 17); position: sticky; top: 0px; z-index: 99; }
+
+#searchInput { flex: 1 1 0%; max-width: 400px; padding: 0.6rem 1rem; border-radius: 10px; border: none; font-size: 1rem; background: rgb(34, 34, 34); color: white; outline: none; transition: box-shadow 0.3s; }
+
+#searchInput:focus { box-shadow: rgba(255, 64, 64, 0.5) 0px 0px 10px; }
+
+#searchBtn { padding: 0.6rem 1.2rem; border-radius: 10px; background: rgb(255, 59, 59); color: white; border: none; cursor: pointer; font-size: 1.1rem; transition: background 0.3s, transform 0.3s; }
+
+#searchBtn:hover { background: rgb(224, 49, 49); transform: scale(1.05); }
+
+.movie-row { padding: 20px; color: white; }
+
+#watching-section { padding: 1rem; background: rgb(0, 0, 0); color: white; position: relative; }
+
+#watching-canvas { position: absolute; top: 0px; left: 0px; width: 100%; height: 200px; background: rgba(0, 0, 0, 0.5); z-index: 1; }
+
+.video-container { position: relative; z-index: 2; }
+
+video { width: 100%; max-height: 400px; display: block; margin: auto; }
+
+.watch-title { margin: 1rem 0px; font-size: 1.5rem; }
+
+.watch-description { margin-bottom: 1rem; }
+
+.related-movies { display: flex; gap: 10px; overflow-x: auto; margin-top: 1rem; }
+
+.related-card { width: 120px; flex-shrink: 0; cursor: pointer; }
+
+.related-card img { width: 100%; border-radius: 8px; }
+
+.hidden { display: none !important; }
+
+.movie-card { cursor: pointer; }
+
+nav { display: flex; gap: 1rem; padding: 1rem; background: rgb(51, 51, 51); }
+
+nav button { background: none; border: none; color: white; cursor: pointer; }
+------MultipartBoundary--GG1OQ1nOnMUYSuHfyVwEjZnS97yKgeqZHHKqMn8tad----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-93a893c8-985d-458d-b17d-bdb5418ce3c5@mhtml.blink
+
+@charset "utf-8";
+
+@font-face { font-family: eruda-icon; src: url("data:application/x-font-woff;charset=utf-8;base64,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") format("woff"); }
+
+[class*=" eruda-icon-"], [class^="eruda-icon-"] { font-size: 16px; font-style: normal; -webkit-font-smoothing: antialiased; font-family: eruda-icon !important; }
+
+.eruda-icon-arrow-left::before { content: ""; }
+
+.eruda-icon-arrow-right::before { content: ""; }
+
+.eruda-icon-caret-down::before { content: ""; }
+
+.eruda-icon-caret-right::before { content: ""; }
+
+.eruda-icon-clear::before { content: ""; }
+
+.eruda-icon-compress::before { content: ""; }
+
+.eruda-icon-delete::before { content: ""; }
+
+.eruda-icon-error::before { content: ""; }
+
+.eruda-icon-expand::before { content: ""; }
+
+.eruda-icon-eye::before { content: ""; }
+
+.eruda-icon-play::before { content: ""; }
+
+.eruda-icon-refresh::before { content: ""; }
+
+.eruda-icon-reset::before { content: ""; }
+
+.eruda-icon-search::before { content: ""; }
+
+.eruda-icon-select::before { content: ""; }
+
+.eruda-icon-tool::before { content: ""; }
+
+.eruda-icon-warn::before { content: ""; }
+------MultipartBoundary--GG1OQ1nOnMUYSuHfyVwEjZnS97yKgeqZHHKqMn8tad------
